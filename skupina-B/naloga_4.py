@@ -1,0 +1,11 @@
+print(9, 8, 7, 6 ,5 ,4 ,3 ,2 ,1, sep="")
+
+print(9, end="")
+print(8, end="")
+print(7, end="")
+print(6, end="")
+print(5, end="")
+print(4, end="")
+print(3, end="")
+print(2, end="")
+print(1)
